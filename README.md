@@ -6,9 +6,9 @@
 )](https://www.instagram.com/eubrian09/)[![Meu portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 )](https://briancerqueira.github.io/MeuPortfolio/)
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?briancerqueira=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briancerqueira&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briancerqueira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briancerqueira&layout=donut)](https://github.com/briancerqueira/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
